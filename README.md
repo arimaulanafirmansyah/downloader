@@ -27,6 +27,6 @@ visit the link localhost:5000/tiktok?URL={URL_VIDEO}
 ```
 ## My Contacts
 
-[Whatsapp](http://wa.me/6286167792618)
-[Facebook](https://www.facebook.com/ari.m.firmansyah.35/)
-[Instagram](https://www.instagram.com/arimaulanafrmnsyh_/)
+- [Whatsapp](http://wa.me/6286167792618)
+- [Facebook](https://www.facebook.com/ari.m.firmansyah.35/)
+- [Instagram](https://www.instagram.com/arimaulanafrmnsyh_/)
