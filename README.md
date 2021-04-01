@@ -2,7 +2,7 @@
 
 ## Requirement
 
-This repo require a [NodeJS](https://nodejs.org/) >= 11.15.0.
+This repo require a [NodeJS](https://nodejs.org/)
 
 
 ## Fiture
