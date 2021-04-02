@@ -7,11 +7,14 @@ This repo require a [NodeJS](https://nodejs.org/)
 
 ## Fiture
 ```sh
-YOUTUBE 
-TIKTOK
-TWEETER
-INSTAGRAM (in process)
-FACEBOOK (in process)
+YOUTUBE (AKTIF)
+TIKTOK (AKTIF)
+TWEETER (AKTIF)
+INSTAGRAM (AKTIF)
+FACEBOOK (AKTIF)
+```
+```sh
+MAAF KALO JELEK :)
 ```
 
 ## How to Use
